@@ -1,0 +1,262 @@
+@charset "utf-8";
+
+Caption.carousel-captionAmbition h3  {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+}
+Caption.carousel graduates  p  {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+}
+caption.carousel flexible p {
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+	font-size: 36px;
+}
+
+Header {
+	margin-left: 20px;
+	margin-bottom: 20px;
+	margin-top: 20px;
+	right: auto;
+	margin-right: 20px;
+}
+
+
+.col-md-4 .thumbnail accounting  img {
+	-webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+	box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+
+}
+.row .col-sm-6.col-lg-3 img {
+	float: right;
+	padding-bottom: 10px;
+	padding-top: 10px;
+}
+.container-fluid .row {
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.container-fluid article {
+	margin-left: 70px;
+	margin-right: 70px;
+}
+.item.active .carousel-caption {
+	text-shadow: 3px 3px 3px #B9B9B9;
+
+}
+.col-md-4 .thumbnail img {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border: medium solid #AC1E20;
+}
+.col-md-4 .thumbnail {
+	padding-top: 20px;
+	
+	
+}
+.container {
+	background-color: #C4C4C4;
+}
+.container footer {
+	border-top: medium solid #AC1E20;
+
+
+}
+.navbar.navbar-default {
+	border-top: 2px solid #AC1E20;
+	border-right: 2px solid #AC1E20;
+	border-left: 2px solid #AC1E20;
+	border-bottom: 2px solid #AC1E20;
+	padding-left: 133px;
+}
+.row .col-sm-6.col-lg-3 img {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	border: medium solid #FFFFFF;
+}
+
+ 
+ .navbar-default .navbar-nav > .hover > a:hover {
+  color: #AC1E20;
+  background-color: #DCDCDC
+}
+ 
+.container article p {
+	padding-left: 5px;
+	padding-right: 5px;
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container .row .col-sm-6.col-lg-9 {
+	padding-left: 18px;
+	border-width: 3px;
+	padding-bottom: 10px;
+}
+.row .col-sm-6.col-lg-9 p {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+.col-sm-12 h2 strong {
+	border-bottom: 2px solid #AC1E20;
+
+
+}
+article.row aside blockquote p {
+	padding: 0px .5em;
+	margin: 0px 0px 5px 0px;
+	text-indent: -0.5em;
+	color: #182F66;
+	font-family: Arial;
+	font-size: 18px;
+}
+.row .col-sm-2  ul.sidebar {
+	font-family: Arial;
+	font-size: 18px;
+}
+
+
+
+article.row aside blockquote cite {
+	padding: 0px 10px;
+	display: block;
+	font-style: italic;
+	text-align: right;
+	color: #000000;
+	
+}
+blockquote div em {
+	color: #000000;
+	font-weight: 300;
+	font-size: 16px;
+}
+
+article.row aside {
+	border-top: solid 3px #AC1E20;
+	border-bottom: solid 3px #Ac1E20;
+	margin-top: 1em;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-bottom: 1em;
+	padding: 1em 0px;
+	background-color: #FFFFFF;
+	
+
+
+	
+}
+article.row section img {
+	padding-top: 5px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	border: medium solid #FFFFFF;
+	margin-top: 15px;
+	margin-left: 0px;
+		
+}
+article.row {
+	padding-left: 15px;
+	padding-right: 15px;
+	font-family: Arial;
+}
+.row aside.col-sm-2   {
+
+}
+.row aside.col-sm-2 h4 strong  {
+	margin-left: 20px;
+	font-size: 20px;
+}
+.row aside.col-sm-2 h4 strong a {
+	margin-left: 20px;
+}
+aside.col-sm-2 h4 strong {
+	color: #182F66;
+	font-weight: bold;
+}
+
+.flt_rgt {
+	float: right;
+	margin-left: 10px;
+}table tbody tr th {
+	text-align: center;
+}
+table tbody tr td {
+	text-align: center;
+	font-weight: 300;
+	font-size: 16px;
+}
+section.col-sm-8 {
+	padding-top: 0px;
+	padding-right: 30px;
+	font-family: Arial;
+	font-size: medium;
+}
+article.row .col-sm-8 h4 {
+	text-shadow: 0px 0px;
+	color: #AC1E20;
+	padding-bottom: 0px;
+	padding-top: 10px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+}
+article.row section.col-sm-8 table tbody th {
+	border-bottom: 2px solid #AC1E20;
+	color: #AC1E20;
+	background-color: #FFFFFF;
+;
+
+
+}
+section.col-sm-8 p .btn.btn-lg.btn-primary {
+	color: #FFFFFF;
+	float: left;
+	margin-left: 190px;
+	margin-top: 18px;
+	font-size: 20px;
+	font-weight: bold;
+
+}
+.col-sm-6.col-lg-9 h3 strong {
+	color: #AC1E20;
+}
+.container article p {
+	font-size: 18px;
+	font-weight: 300;
+
+
+
+}
+.thumbnail .caption p {
+	font-size: 18px;
+	font-weight: 300;
+}
+
+body {
+	font-style: normal;
+	font-weight: 400;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+.caption p .btn.btn-primary {
+	font-size: 18px;
+	font-weight: 300;
+}
+.row #wrapper #subscribeBox {
+padding-left: 18px;
+padding-right: 18px;
+}
+p a .flt_rgt {
+	margin-left: 10px;
+}
+.subscribe {
+	text-align: center;
+}
+#wrapper #subscribeBox p {
+	font-weight: 300;
+	font-size: 18px;
+}
